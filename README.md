@@ -5,8 +5,7 @@ execício de extração, transformação e carregamento de arquivos tipo csv e x
 
 ### Pré-requisitos
 ``
-Phyton
-google colab
+Phyton - google colab
 ``
 
 
