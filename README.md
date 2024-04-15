@@ -9,5 +9,9 @@ Phyton - google colab
 ``
 
 ### Código
-<img scr="/img/código.png" width = "200">
+<p float="left">
+<img scr="/img/código.png" width = "200" />
+</p>
+
+
 
