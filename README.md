@@ -18,7 +18,8 @@ Nessa etapa os dados recebem uma adição, a coluna Valor total, que corresponde
 
 #### carregamento
 
-Nessa etapa ambos os tipos de dados são convertidos para csv e após isso carregados para dados_filial, onde posteriormente são exibidos na tela
+Nessa etapa ambos os tipos de dados são convertidos para csv e após isso carregados para um banco de dados, na forma do aquivo 'dados_transformados.db' \
+após isso é feita uma verificaçãos dos dados dentro do aquivo 'dados_transformados.db'
 
 ##### complementos
 * Pasta ETL - arquivos utilizados no exercício 
